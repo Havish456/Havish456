@@ -4,13 +4,6 @@
 
 ### Computer Science Student • Software Engineering • Web Development • Exploring AI
 
-<p>
-  <img src="https://img.shields.io/badge/Background-%230D1117?style=for-the-badge" alt="Background" />
-  <img src="https://img.shields.io/badge/Primary-%2358A6FF?style=for-the-badge" alt="Primary" />
-  <img src="https://img.shields.io/badge/Secondary-%238B5CF6?style=for-the-badge" alt="Secondary" />
-  <img src="https://img.shields.io/badge/Accent-%2322C55E?style=for-the-badge" alt="Accent" />
-</p>
-
 </div>
 
 I'm a Computer Science student who enjoys turning ideas into working software.
@@ -53,11 +46,12 @@ My goal is simple: become a **Computer Science Engineer who can take a problem, 
 
 ### Currently Exploring
 
-`C++` `OOP` `DBMS` `Full-Stack Development` `Backend Development` `Artificial Intelligence`
+`C++` `OOP` `DBMS` `Full-Stack Development` `Artificial Intelligence`
 
 ---
 
-## 🚀 Featured Projects
+<details>
+<summary>🚀 Featured Projects</summary>
 
 ### 🌌 Planetary Found
 
@@ -112,13 +106,7 @@ A parallel Python implementation with **45 passing unit tests** was used to veri
 
 ---
 
-### 🤖 Jarvis
-
-A collaborative project developed with friends.
-
-The repository is hosted on my GitHub account, while the primary implementation was developed by my friend. I keep it here as a **collaborative project** rather than presenting it as an individual project.
-
----
+</details>
 
 ## 📚 Currently Learning
 
@@ -172,16 +160,6 @@ Instead of only learning a technology theoretically, I like to:
 `Software Engineering` • `Web Development` • `Frontend` • `Backend` • `Artificial Intelligence` • `DSA` • `Core CS`
 
 ---
-
-## 📊 GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Havish456&bg_color=0D1117&color=F0F6FC&line=58A6FF&point=22C55E&area=true&area_color=8B5CF6&hide_border=true" alt="Havish's contribution graph" width="100%" />
-
-</div>
-
-I use GitHub to document what I'm building, experiment with technologies, and track my growth as a developer.
 
 > Still learning. Still building. Still figuring things out — one project at a time.
 
