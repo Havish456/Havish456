@@ -53,7 +53,7 @@ My goal is simple: become a **Computer Science Engineer who can take a problem, 
 
 ### Currently Exploring
 
-`C++` `OOP` `DBMS` `Full-Stack Development` `Backend Development` `Artificial Intelligence`
+`C++` `OOP` `DBMS` `Full-Stack Development` `Artificial Intelligence`
 
 ---
 
@@ -173,22 +173,8 @@ Instead of only learning a technology theoretically, I like to:
 
 ---
 
-## 📊 GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Havish456&bg_color=0D1117&color=F0F6FC&line=58A6FF&point=22C55E&area=true&area_color=8B5CF6&hide_border=true" alt="Havish's contribution graph" width="100%" />
-
-</div>
-
-I use GitHub to document what I'm building, experiment with technologies, and track my growth as a developer.
-
-> Still learning. Still building. Still figuring things out — one project at a time.
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in learning from other developers, collaborating on interesting projects, and exploring new ideas in software and AI.
 
-**Thanks for stopping by! 🚀**
+**Thanks for stopping by!**
